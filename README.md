@@ -1,11 +1,11 @@
 
 
----
-title: Timmy Churchill
-date: 2022-08-07
-draft: false
 
-links: 
+Timmy Churchill
+8/7/22
+
+links:
+---
     linkedin: www.linkedin.com/in/TimothyChurchill-
     github: https://github.com/Timmy-Churchill
 ---
