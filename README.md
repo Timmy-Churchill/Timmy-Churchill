@@ -10,7 +10,7 @@ links:
     github: https://github.com/Timmy-Churchill
 ---
 
-Timmy is a Junior at Noble and Greenough School in Dedham, MA. He is interested in web development, data analytics, and game design. In his free time, he enjoys reading, runs competitively, and likes to meet new people.
+Timmy is a Junior at Noble and Greenough School. He is interested in web development, data analytics, and game design. In his free time, he enjoys reading, runs competitively, and likes to meet new people.
 
 
 <!---
